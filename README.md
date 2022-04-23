@@ -1,4 +1,4 @@
-<img src="https://github.com/mohamedkhrouf/ExemplaryFairFeline-max-1mb.gif">
+<img src="https://github.com/mohamedkhrouf/mohamedkhrouf/blob/main/ExemplaryFairFeline-max-1mb.gif?raw=true">
 <br/>
 <br/>
 
