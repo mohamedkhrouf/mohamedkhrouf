@@ -1,6 +1,5 @@
 ## Hello, I'm <a href="https://aakarsh.me" target="_blank">Mohamed</a>!
 (Use dark theme to find my socials ;)
-
 <a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
@@ -10,12 +9,8 @@
 <a href="https://medium.com/@aakarshbiju" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 <a href="https://dev.to/aakarshb" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
-<br />
-<br />
-<br />
 <img style="width:750px;margin-left:100px" src="https://github.com/mohamedkhrouf/mohamedkhrouf/blob/main/ExemplaryFairFeline-max-1mb.gif?raw=true">
-<br/>
-<br/>
+
 
 
 ### Languages and Tools:
