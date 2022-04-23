@@ -1,4 +1,4 @@
-## Hello, I'm <a href="https://aakarsh.me" target="_blank">Mohamed</a>!
+## Hello, I'm <a href="#" target="_blank">Mohamed</a>!
 (Use dark theme to find my socials ;)
 <a href="#" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="#" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
