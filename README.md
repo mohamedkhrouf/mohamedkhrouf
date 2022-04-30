@@ -16,13 +16,16 @@
 ### Languages and Tools:
 
 
-<a href="#" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="#" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+
 <a href="https://nestjs.com" target="_blank"> <img align="left" alt="Nestjs" width="26px" src="https://raw.githubusercontent.com/mohamedkhrouf/mohamedkhrouf/9e3766f60dff9e28d967d7f0a326055b599a24d5/logo-small.cbbeba89.svg"/> </a>
 <a href="https://vuejs.org" target="_blank"> <img align="left" alt="Vue Js" width="26px" src="https://user-images.githubusercontent.com/60822106/164945429-c0f7014a-6e1f-497b-be81-8482615fedc5.png"/> </a>
 <a href="#" target="_blank"> <img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/mohamedkhrouf/mohamedkhrouf/main/node-js-1174925.webp"/> </a>
 <a href="#" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+  <a href="#" target="_blank"><img align="left" alt="Reactjs" width="26px" src="https://github.com/mohamedkhrouf/mohamedkhrouf/blob/main/React-icon.svg.png?raw=true" /></a>
+
+  <a href="#" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="#" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <br />
 <br />
 ### Softwares:
